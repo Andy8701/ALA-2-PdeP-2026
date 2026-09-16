@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Andy8701/ALA-2-PdeP-2026/issues"
   },
-  "homepage": "https://github.com/Andy8701/ALA-2-PdeP-2026#readme"
+  "homepage": "https://github.com/Andy8701/ALA-2-PdeP-2026#readme",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
 }
